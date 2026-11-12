@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Slurm job logs
+*.out
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
